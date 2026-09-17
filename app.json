@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "parcial-alvaro",
+    "slug": "parcial-alvaro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "parcialapp",
+    "userInterfaceStyle": "automatic",
+    "web": {
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
